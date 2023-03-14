@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8a3900-2007-4209-ad9b-34f1d01427e3" name="Changes" comment="Added gradle implementations">
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/helpers/ClientHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/helpers/CommonHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/helpers/LoginHelpersClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/helpers/LoginHelpersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/tests/client/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/utils/Recorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7c8a3900-2007-4209-ad9b-34f1d01427e3" name="Changes" comment="Added ApplicationManager.java, ClientHelpers.java, CommonHelpers.java,Deposit with error, LoginHelpersClient.java, LoginHelpersManager.java, Recorder,TestBase.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/ApplicationManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +51,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RunManager" selected="Gradle.Deposit.depositMoneyClient (1)">
@@ -185,11 +175,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678309504154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added ApplicationManager.java, ClientHelpers.java, CommonHelpers.java,Deposit with error, LoginHelpersClient.java, LoginHelpersManager.java, Recorder,TestBase.java">
+      <created>1678783654243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678783654243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added gradle implementations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gradle implementations" />
+    <MESSAGE value="Added ApplicationManager.java, ClientHelpers.java, CommonHelpers.java,Deposit with error, LoginHelpersClient.java, LoginHelpersManager.java, Recorder,TestBase.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ApplicationManager.java, ClientHelpers.java, CommonHelpers.java,Deposit with error, LoginHelpersClient.java, LoginHelpersManager.java, Recorder,TestBase.java" />
   </component>
 </project>
